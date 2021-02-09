@@ -1,0 +1,32 @@
+/* CSS Document */
+body{
+	margin: 0px;
+	font-family:'comic sans ms', sans-serif;
+	text-align: center;
+	background: linear-gradient(45deg, wheat, navajowhite)
+}	
+table{
+	width: 100%;
+}
+h2{
+	background: linear-gradient(45deg, tan, white, tan);
+	width: 60%;
+	color:burlywood;
+	margin: auto;
+	padding: 15px;
+	border-radius: 60% 60% 0% 0%;
+	border-bottom: 5px solid goldenrod;
+}
+h1{
+	font-family: 'Castellar', sans-serif;
+	font-size: 45px;
+}
+img{width: auto;
+	height:160px;
+	border-radius: 20px;
+	box-shadow: 0 0 10px black
+}
+img.main{
+	width:550px;
+	height: 270px;
+}
